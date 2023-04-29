@@ -1,0 +1,14 @@
+:root {
+  --background: rgb(240, 243, 243);
+}
+
+.App {
+  height: 80vh;
+  width: 600px;
+  border-radius: 15px;
+  padding: 0 15px;
+  overflow-y: auto;
+  background-color: var(--background);
+  box-shadow: 5px 5px 11px 0px rgba(0, 0, 0, 0.44);
+  box-sizing: border-box;
+}

@@ -1,0 +1,44 @@
+button :hover {
+  background-color: #cccccc;
+}
+
+.ProductCard {
+  height: auto;
+  width: auto;
+  border-radius: 10px;
+  box-shadow: inset -2px 2px 4px rgba(205, 205, 205, 0.2),
+    inset 2px -2px 4px rgba(205, 205, 205, 0.2),
+    inset -2px -2px 4px rgba(255, 255, 255, 0.9),
+    inset 2px 2px 5px rgba(205, 205, 205, 0.9);
+}
+
+.product-image {
+  height: 200px;
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.product-details {
+  display: flex;
+  gap: 10px;
+  padding: 0 10px;
+}
+
+.symbol {
+  height: 20px;
+  width: 20px;
+}
+
+.price-with-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 10px;
+}
+
+.plus-minus-buttons {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
