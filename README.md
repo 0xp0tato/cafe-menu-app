@@ -1,9 +1,9 @@
-Cafe Menu App
+<h1>Cafe Menu App</h1>
 
-This is a web application that allows users to view the menu of a cafe and place orders. The application is built using ReactJS.
-This project was created for the first round of the hiring process of Toast App.
+<h2>This is a web application that allows users to view the menu of a cafe and place orders. The application is built using ReactJS.
+This project was created for the first round of the hiring process of Toast App.<h2>
 
-Features
+<h3>Features
 
     View the menu items of the cafe
     Add items to cart
@@ -22,4 +22,4 @@ Installation
 Technologies Used
 
     React
-    Redux Toolkit
+    Redux Toolkit</h3>
