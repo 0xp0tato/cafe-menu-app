@@ -4,7 +4,7 @@ import menuData from "../../data/menuData.json";
 import appLogo from "../../images/app-logo.png";
 import ProductCard from "../ProductCard/ProductCard";
 
-import "./MainPage.css";
+import "./Mainpage.css";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
