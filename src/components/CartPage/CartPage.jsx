@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import CartItem from "../CartItem/CartItem";
 import Modal from "../Modal/Modal";
-import "./Cartpage.css";
+import "./CartPage.css";
 
 import { useSelector, useDispatch } from "react-redux";
 
